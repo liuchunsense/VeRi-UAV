@@ -16,3 +16,9 @@ This dataset is made available for academic use only. If you find your vehicle o
 
 2. Copyright
 The copyright of the VeRi-UAV dataset is reserved by the Lab of computer vision and pattern recognition, Shandong University, China. The dataset described on this page is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License, which implies that you must: (1) Attribute the work as specified by the original authors; (2) May not use this work for commercial purposes; (3) If you alter, transform, or build upon this work, you may distribute the resulting work only under the same license. The dataset is provided "as it is" and we are not responsible for any subsequence from using this dataset.
+
+# Citation Paper
+Coming Soon after publication.
+
+# Code
+Coming Soon  after publication.
